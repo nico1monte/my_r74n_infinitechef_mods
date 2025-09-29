@@ -154,3 +154,8 @@ addIngredient("broken_bark",{
 
 > [!IMPORTANT]
 > Not associated with R74N, not a real product or repository, visit [R74N's GitHub](https://github.com/R74nCom) for real projects. :)
+
+# Warning
+
+> [!WARNING]
+> For view the colors test it on the game. Follow this link for install the mod on your game: [Click](https://raw.githubusercontent.com/nico1monte/my_r74n_infinitechef_mods/refs/heads/main/src/How-to-Install-a-Mod.gif)
