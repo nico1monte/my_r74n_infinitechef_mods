@@ -67,7 +67,7 @@ If you break the chrysanthemum you receive the Flower seeds.
 
 The rose how alls flowers have a flower shape!
 
-For find it search `chrysanthemum`, `flower` or `Cookwers`.
+For find it search `chrysanthemum`, `flower` or `cookwers`.
 
 ## Code
 
