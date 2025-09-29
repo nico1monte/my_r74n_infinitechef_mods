@@ -20,6 +20,8 @@ This ingredient is the general ingredient on the mod.
 
 If you breaks it appears the unknown ingredient (This ingredient it's no from mod.) <img src="https://r74n.com/shapes/png/unknown.png"> < Shape
 
+You can find "Break It!" with typing `windows` or `breakitmod` on the search.
+
 ## Code
 
 For view the code click this arrow down (V)
